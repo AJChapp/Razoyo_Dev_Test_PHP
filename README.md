@@ -2,8 +2,10 @@
 
 ## How to run
 To run simply run the following command in the terminal: 
+
 php dev-lib.php
-then follow the prompts.
+
+Then follow the prompts.
 
 ## ENV Format
 If you wish to provide credentials via a .env it MUST be in the following format
